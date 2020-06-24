@@ -1,0 +1,104 @@
+Cargo count,0
+Cargo count,4
+Cargo count,4
+Cargo count,4
+Cargo count,4
+Cargo count,4
+Cargo count,4
+Cargo count,4
+Cargo count,4
+Cargo count,173
+Cargo count,4
+Cargo count,4
+Cargo count,173
+Cargo count,4
+Health,4
+Cargo count,0
+Health,3
+Cargo count,0
+Health,2
+Cargo count,0
+Health,2
+Cargo count,0
+Health,2
+Cargo count,0
+Health,2
+Cargo count,0
+Health,3
+Cargo count,0
+Health,2
+Cargo count,0
+Health,2
+Cargo count,0
+Health,1
+Cargo count,0
+Health,1
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,2
+Health,2
+fuel,389
+Cargo count,2
+Health,2
+fuel,389
+Cargo count,2
+Health,2
+fuel,389
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,2
+fuel,446
+Cargo count,0
+Health,2
+fuel,446
+Cargo count,0
+Health,2
+fuel,446
+Cargo count,1
+Health,2
+fuel,385
+Cargo count,1
+Health,2
+fuel,385
+Cargo count,0
+Health,4
+fuel,480
+Cargo count,0
+Health,4
+fuel,480
+Cargo count,0
+Health,4
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
+Cargo count,0
+Health,3
+fuel,480
